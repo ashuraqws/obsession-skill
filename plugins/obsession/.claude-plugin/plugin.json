@@ -1,0 +1,7 @@
+{
+  "name": "obsession",
+  "description": "Obsessive mode: a worker plus a hostile watcher agent loop until the task is genuinely excellent.",
+  "version": "1.0.0",
+  "author": { "name": "ashuraqws" },
+  "license": "MIT"
+}

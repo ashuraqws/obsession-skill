@@ -1,0 +1,7 @@
+{
+  "name": "obsession-skill",
+  "owner": { "name": "ashuraqws" },
+  "plugins": [
+    { "name": "obsession", "source": "./plugins/obsession", "description": "Obsessive mode: a worker plus a hostile watcher agent loop until the task is genuinely excellent." }
+  ]
+}
